@@ -17,8 +17,6 @@
 
 [![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical)](https://github.com/imgjeits/github-readme-stats)
 
-<br />
-
 #### Currently learning
 
 <img align="left" alt="Angular" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
