@@ -13,7 +13,7 @@
 <br />
 <br />
 
-[![Ida's github stats](https://github-readme-stats.vercel.app/api?username=imgjeits)](https://github.com/imgjeits/github-readme-stats)
+[![Ida's github stats](https://github-readme-stats.vercel.app/api?username=imgjeits&count_private=true)](https://github.com/imgjeits/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imgjeits&langs_count=10)](https://github.com/imgjeits/github-readme-stats)
 
