@@ -4,18 +4,23 @@
 
 ### Languages and Tools
 
-<!-- <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> -->
+<img align="left" alt="HTML5" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="PHP" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
+<img align="left" alt="MariaDB" height="26" width="26" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/mariadbfoundation.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/figma.svg" /> 
 
-<br />
+<br /><br />
+
+[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical)](https://github.com/imgjeits/github-readme-stats)
+
 <br />
 
 ### Stats
 
-[![Ida's github stats](https://github-readme-stats-beryl-psi.vercel.app/api?username=imgjeits&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/imgjeits/github-readme-stats) [![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical)](https://github.com/imgjeits/github-readme-stats)
+[![Ida's github stats](https://github-readme-stats-beryl-psi.vercel.app/api?username=imgjeits&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/imgjeits/github-readme-stats) 
 
 ---
 
