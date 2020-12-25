@@ -16,7 +16,7 @@
 
 <br /><br />
 
-[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical)](https://github.com/imgjeits/github-readme-stats)
+[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical&langs_count=4)](https://github.com/imgjeits/github-readme-stats)
 
 #### Currently learning
 
