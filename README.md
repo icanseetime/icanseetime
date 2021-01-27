@@ -12,7 +12,7 @@
 <img align="left" alt="MySQL" height="26" width="26" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" />
 <img align="left" alt="Windows 10" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" alt="Figma" height="26" width="26px" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" /> 
+<img align="left" alt="Figma" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" /> 
 
 <br /><br />
 
