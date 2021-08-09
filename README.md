@@ -15,7 +15,7 @@
 
 <br /><br />
 
-[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=imgjeits&layout=compact&theme=radical&langs_count=6)](https://github.com/imgjeits/github-readme-stats)
+[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=icanseetime&layout=compact&theme=radical&langs_count=6)](https://github.com/icanseetime/github-readme-stats)
 
 #### Currently learning
 
@@ -29,7 +29,7 @@
 
 ### Stats
 
-[![Ida's github stats](https://github-readme-stats-beryl-psi.vercel.app/api?username=imgjeits&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/imgjeits/github-readme-stats) 
+[![Ida's github stats](https://github-readme-stats-beryl-psi.vercel.app/api?username=icanseetime&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/icanseetime/github-readme-stats) 
 
 ---
 
