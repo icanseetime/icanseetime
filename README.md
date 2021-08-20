@@ -12,10 +12,11 @@
 <img align="left" alt="Windows 10" height="26" width="26" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Windows_logo_-_2012_derivative.svg/1024px-Windows_logo_-_2012_derivative.svg.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="Figma" height="26" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" /> 
-
+  
 <br /><br />
 
 [![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=icanseetime&layout=compact&theme=radical&langs_count=6)](https://github.com/icanseetime/github-readme-stats)
+  
 
 #### Currently learning
 
@@ -26,10 +27,6 @@
 <img align="left" alt="Vue" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 
 <br /><br />
-
-### Stats
-
-[![Ida's github stats](https://github-readme-stats-beryl-psi.vercel.app/api?username=icanseetime&count_private=true&show_icons=true&hide=stars&theme=radical)](https://github.com/icanseetime/github-readme-stats) 
 
 ---
 
