@@ -1,4 +1,4 @@
-# Hi there, I'm Ida
+# Hi there!
 
 ## I'm currently studying Web Development at the [Norwegian University of Science and Technology](https://www.ntnu.edu/)
 
