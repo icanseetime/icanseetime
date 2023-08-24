@@ -42,6 +42,7 @@ I'm open to work. I have a bachelor's degree in Web Development from [The Norweg
 
 #### Currently learning
 
+<img align="left" alt="Astro" height="26" width="26px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
 <img align="left" alt="Next.js" height="26" width="26px" src="https://dinhanhthi.com/img/header/nextjs.png" />
 <img align="left" alt="TypeScript" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Docker" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
