@@ -56,7 +56,7 @@ I'm open to work. I have a bachelor's degree in Web Development from [The Norweg
 
 <br />
 
-[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=icanseetime&layout=compact&theme=radical&langs_count=6&exclude_repo=Transbucket_Rails)](https://github.com/icanseetime/github-readme-stats)
+[![Top Languages](https://github-readme-stats-beryl-psi.vercel.app/api/top-langs/?username=icanseetime&layout=compact&theme=radical&langs_count=8&exclude_repo=Transbucket_Rails)](https://github.com/icanseetime/github-readme-stats)
 
 <br />
 
