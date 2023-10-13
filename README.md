@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Isak!
 
-I'm open to work. I have a bachelor's degree in Web Development from [The Norwegian University of Science and Technology](https://www.ntnu.edu), and hands-on experience working as a developer.
+I have a bachelor's degree in Web Development from [The Norwegian University of Science and Technology](https://www.ntnu.edu), and hands-on experience working as a developer.
 
 ### 💻 Technologies, Languages and Tools
 
