@@ -16,6 +16,7 @@ I have a bachelor's degree in Web Development from [The Norwegian University of 
 #### Frontend frameworks
 <div>
     <img align="left" alt="React" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+    <img align="left" alt="Astro" height="26" width="26px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
     <img align="left" alt="Nuxt" height="26" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" />
     <img align="left" alt="Sass" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 </div>
@@ -42,9 +43,8 @@ I have a bachelor's degree in Web Development from [The Norwegian University of 
 
 #### Currently learning
 
-<img align="left" alt="Astro" height="26" width="26px" src="https://avatars.githubusercontent.com/u/44914786?s=200&v=4" />
-<img align="left" alt="Next.js" height="26" width="26px" src="https://dinhanhthi.com/img/header/nextjs.png" />
 <img align="left" alt="TypeScript" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Remix" height="26" width="26px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />
 <img align="left" alt="Docker" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Python" height="26" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
